@@ -41,5 +41,10 @@ namespace WindowsFormsApp2
         public virtual KHACHHANG KHACHHANG { get; set; }
 
         public virtual NHANVIEN NHANVIEN { get; set; }
+
+        private void dataGridView1_CellContentClick(object sender, System.Windows.Forms.DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

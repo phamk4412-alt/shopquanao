@@ -233,6 +233,7 @@
             // 
             // Column1
             // 
+            this.Column1.FillWeight = 34.8432F;
             this.Column1.HeaderText = "STT";
             this.Column1.MinimumWidth = 6;
             this.Column1.Name = "Column1";
@@ -240,38 +241,43 @@
             // 
             // Column2
             // 
+            this.Column2.FillWeight = 233.2708F;
             this.Column2.HeaderText = "Tên sản phẩm";
             this.Column2.MinimumWidth = 6;
             this.Column2.Name = "Column2";
-            this.Column2.Width = 300;
+            this.Column2.Width = 335;
             // 
             // Column3
             // 
+            this.Column3.FillWeight = 50.22502F;
             this.Column3.HeaderText = "Kích cỡ";
             this.Column3.MinimumWidth = 6;
             this.Column3.Name = "Column3";
-            this.Column3.Width = 80;
+            this.Column3.Width = 72;
             // 
             // Column4
             // 
+            this.Column4.FillWeight = 86.3316F;
             this.Column4.HeaderText = "Giá bán";
             this.Column4.MinimumWidth = 6;
             this.Column4.Name = "Column4";
-            this.Column4.Width = 125;
+            this.Column4.Width = 124;
             // 
             // Column5
             // 
+            this.Column5.FillWeight = 106.7336F;
             this.Column5.HeaderText = "Mã sản phẩm";
             this.Column5.MinimumWidth = 6;
             this.Column5.Name = "Column5";
-            this.Column5.Width = 150;
+            this.Column5.Width = 153;
             // 
             // Column7
             // 
+            this.Column7.FillWeight = 88.59577F;
             this.Column7.HeaderText = "Số lượng";
             this.Column7.MinimumWidth = 6;
             this.Column7.Name = "Column7";
-            this.Column7.Width = 125;
+            this.Column7.Width = 127;
             // 
             // SanPham
             // 
